@@ -13,6 +13,6 @@ public class Hello {
 
     @GetMapping("")
     public String  hello(){
-        return "Dijana ti si najjaca";
+        return "jA SAM NAJJACI";
     }
 }
